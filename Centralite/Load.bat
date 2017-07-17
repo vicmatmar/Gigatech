@@ -1,0 +1,1 @@
+em3xx_load --ip 192.168.0.3 HexFirmware_25_10.hex
